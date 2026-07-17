@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,brand,supplier,unit_cost,selling_price,stock_quantity,reorder_level,launch_date,discontinued
+1,Laptop,Electronics,Laptop,Nova,"Swanson, Manning and Myers",372.07,564.94,754,23,2023-09-26,True
+2,T-Shirt,Clothing,T-Shirt,Vertex,Cruz-Stephens,19.75,29.31,616,13,2025-06-18,True
+3,Jeans,Clothing,Jeans,TechPro,"Bailey, Stanton and Ellis",227.36,355.06,777,30,2025-02-03,False
+4,Yoga Mat,Sports,Yoga Mat,Prime,Howell PLC,81.96,200.34,104,21,2024-07-26,False
+5,Mouse,Electronics,Mouse,TechPro,"Jacobs, Gutierrez and Cherry",424.51,842.59,747,68,2025-02-16,True
+6,T-Shirt,Clothing,T-Shirt,Vertex,Benjamin LLC,278.26,633.94,906,56,2025-11-24,True
+7,Laptop,Electronics,Laptop,TechPro,"White, Moore and Owen",332.33,732.78,875,39,2026-03-19,True
+8,Jacket,Clothing,Jacket,Nova,"Brown, Henderson and Lane",229.44,524.12,379,55,2025-04-30,True
+9,Football,Sports,Football,Fusion,"Ball, Hernandez and Bailey",306.52,436.02,250,30,2024-12-22,False
+10,Jacket,Clothing,Jacket,Vertex,"Parks, Wood and Stewart",494.81,1005.45,224,97,2022-08-11,False
+11,Keyboard,Electronics,Keyboard,Apex,Roberts-Bray,411.79,-50.0,274,18,2025-07-13,True
+12,Basketball,Sports,Basketball,Fusion,Mitchell Group,329.44,564.77,469,28,2026-01-24,False
+13,Desk,Home,Desk,Fusion,"Henry, Gonzalez and James",373.77,710.41,598,64,2023-07-31,False
+14,Basketball,Sports,Basketball,Apex,Norris and Sons,498.68,688.09,93,16,2026-01-17,True
+15,Desk,Home,Desk,TechPro,"Bell, Rivera and Walker",397.08,694.42,394,58,2025-06-15,False
+16,Football,Sports,Football,Vertex,Anderson Ltd,341.74,460.98,768,44,2024-12-26,False
+17,Mouse,Electronics,Mouse,Fusion,Mueller-Lynch,220.21,394.14,896,43,2026-04-18,True
+18,Mouse,Electronics,Mouse,Nova,Day Ltd,421.63,784.22,156,57,2026-06-04,True
+19,Headphones,Electronics,Headphones,Prime,Khan-Bruce,165.46,202.74,899,49,2024-01-08,True
+20,Keyboard,Electronics,Keyboard,TechPro,Booth Inc,439.61,1068.71,749,72,2024-12-06,True
+21,Desk,Home,Desk,Nova,Johnston and Sons,331.58,806.04,271,77,2024-05-20,False
+22,Desk,Home,Desk,Fusion,"Burns, Garcia and Schmitt",357.91,615.14,665,57,2024-04-18,False
+23,T-Shirt,Clothing,T-Shirt,TechPro,Chen Ltd,127.71,163.88,602,80,2022-08-31,True
+24,Chair,Home,Chair,Nova,"Cross, Maddox and Cole",40.14,81.1,69,14,2026-03-29,False
+25,Headphones,Electronics,Headphones,Nova,Johnson-Cooke,122.81,254.18,552,26,2025-09-27,False
+26,Coffee Mug,Home,Coffee Mug,,Lara-Parker,404.71,585.83,674,65,2024-10-01,False
+27,Sneakers,Clothing,Sneakers,Fusion,Hicks-Bush,236.18,507.27,669,92,2023-09-22,True
+28,Monitor,Electronics,Monitor,TechPro,"Smith, Schwartz and Miller",365.47,818.93,254,34,2024-07-08,True
+29,Jeans,Clothing,Jeans,Nova,"Watson, Ayers and Clarke",213.83,334.03,895,19,2026-03-14,False
+30,Laptop,Electronics,Laptop,TechPro,"Jones, Neal and Ross",327.81,623.75,992,21,2024-03-24,True
+31,Coffee Mug,Home,Coffee Mug,Apex,"Allen, Williams and Roach",245.39,362.65,924,17,2023-10-10,True
+32,T-Shirt,Clothing,T-Shirt,Apex,Smith-Villanueva,492.73,761.15,292,64,2023-07-23,False
+33,Desk,Home,Desk,Vertex,Wright-Morrison,151.87,373.5,753,79,2026-01-11,True
+34,Football,Sports,Football,Vertex,Castaneda Group,29.82,54.27,161,17,2026-01-17,True
+35,Chair,Home,Chair,Nova,Armstrong-Jimenez,299.54,622.38,413,25,2024-02-09,True
+36,Headphones,electronics,Headphones,Vertex,Duke PLC,45.58,93.65,535,50,2024-10-09,False
+37,Lamp,Home,Lamp,Fusion,"Smith, Bradford and Salinas",123.15,211.14,660,48,2023-05-18,False
+38,Football,Sports,Football,Vertex,Villarreal-Jensen,9.61,19.29,102,19,2026-01-09,True
+39,Basketball,Sports,Basketball,Nova,"Watts, King and Mcgee",466.96,1095.08,378,46,2024-05-21,True
+40,Jacket,Clothing,Jacket,Fusion,Rodriguez LLC,307.78,764.34,541,11,2025-01-18,False
+41,Keyboard,Electronics,Keyboard,Fusion,Miller-Leonard,135.91,320.29,566,29,2025-08-26,False
+42,Basketball,Sports,Basketball,Fusion,"Kramer, Dean and Dunn",360.22,527.61,873,43,2023-07-23,False
+43,Football,Sports,Football,Prime,Wallace-Gomez,50.69,88.74,45,10,2023-07-09,False
+44,Lamp,Home,Lamp,Fusion,Johnson-Adams,84.98,150.79,437,81,2025-04-13,True
+45,Laptop,Electronics,Laptop,Nova,"Miller, Harris and Morris",472.8,992.09,558,14,2025-02-28,False
+46,Coffee Mug,Home,Coffee Mug,TechPro,"Moore, Heath and Davis",68.09,108.99,920,55,2025-08-27,True
+47,Chair,Home,Chair,Apex,James Ltd,180.07,347.15,997,89,2025-03-26,True
+48,Desk,Home,Desk,Apex,"Taylor, Chapman and Wright",488.22,1100.45,25,32,2025-03-01,False
+49,Jeans,Clothing,Jeans,TechPro,Travis-Pierce,137.07,304.79,391,14,2023-09-07,False
+50,Desk,Home,Desk,Prime,Dixon Inc,409.21,735.92,840,39,2025-12-18,True
+51,Keyboard,Electronics,Keyboard,TechPro,Anderson Inc,202.24,315.94,990,45,2023-07-31,False
+52,Jacket,Clothing,Jacket,Prime,"Friedman, Mclaughlin and Campbell",469.92,634.37,182,84,2025-01-04,False
+53,Laptop,Electronics,Laptop,Prime,Sanchez Group,300.3,495.31,446,87,2024-03-30,True
+54,Jeans,Clothing,Jeans,TechPro,Davidson LLC,131.09,278.1,532,78,2026-03-15,True
+55,Dumbbell,Sports,Dumbbell,Prime,"Gibson, Wall and Howard",39.64,81.8,638,50,2023-01-23,True
+56,Yoga Mat,Sports,Yoga Mat,Fusion,"Graham, Macdonald and Olson",335.11,544.23,302,80,2026-06-12,True
+57,Coffee Mug,Home,Coffee Mug,Fusion,"Brown, Thomas and Hawkins",334.14,565.66,924,32,2023-05-18,False
+58,T-Shirt,Clothing,T-Shirt,Vertex,Aguilar and Sons,155.42,228.97,621,93,2024-09-03,False
+59,Sneakers,Clothing,Sneakers,Apex,Ford Ltd,223.87,330.84,812,31,2022-12-30,True
+60,Yoga Mat,Sports,Yoga Mat,Nova,Chavez Group,51.23,124.88,688,49,2026-03-11,True
+61,Desk,Home,Desk,Apex,"Marsh, Gonzales and Murphy",17.09,25.95,625,19,2024-05-13,False
+62,Jeans,Clothing,Jeans,Apex,Hall-Ruiz,360.58,612.69,249,28,2023-06-23,True
+63,Monitor,Electronics,Monitor,Fusion,"Kennedy, Baker and Garcia",113.33,254.46,530,69,2022-11-15,True
+64,Chair,Home,Chair,Fusion,Adams Group,230.95,517.75,543,81,2024-06-12,False
+65,Sneakers,Clothing,Sneakers,Nova,Norris Ltd,416.13,795.74,761,70,2025-11-05,False
+66,Basketball,Sports,Basketball,Vertex,Johnson-Scott,420.73,656.55,496,90,2026-06-01,True
+67,Dumbbell,Sports,Dumbbell,Prime,Walker-Collins,43.35,68.12,343,50,2025-09-07,True
+68,Desk,Home,Desk,Fusion,Espinoza Inc,119.47,251.14,219,18,2025-09-11,False
+69,Jacket,Clothing,Jacket,Nova,"Osborne, Simpson and Woodard",273.59,476.19,852,63,2023-12-18,False
+70,Headphones,Electronics,Headphones,Prime,Flores PLC,193.29,233.43,305,59,2024-11-09,False
+71,Coffee Mug,Home,Coffee Mug,TechPro,Russo and Sons,113.61,200.7,398,53,2024-08-16,False
+72,Coffee Mug,Home,Coffee Mug,Vertex,"Lester, Sanders and Davis",460.17,1138.89,27,60,2026-01-14,True
+73,Monitor,Electronics,Monitor,TechPro,"Henderson, Warren and Smith",72.17,129.92,266,58,2023-03-18,False
+74,Coffee Mug,Home,Coffee Mug,Apex,Martinez Inc,166.79,365.2,284,63,2023-12-16,False
+75,Monitor,Electronics,Monitor,Prime,"Mosley, Collins and Ruiz",14.59,27.74,229,93,2024-09-25,True
+76,Laptop,Electronics,Laptop,TechPro,Thompson Inc,475.06,693.19,636,29,2022-09-12,True
+77,Coffee Mug,Home,Coffee Mug,Nova,Parks and Sons,336.38,650.28,476,99,2024-03-10,False
+78,Basketball,Sports,Basketball,Fusion,"Meyer, Allen and Zhang",304.92,747.92,117,30,2025-12-08,False
+79,Headphones,Electronics,Headphones,Fusion,"Mcfarland, Barker and Bean",17.71,28.43,929,58,2023-06-04,False
+80,Chair,Home,Chair,Nova,"Hunt, Patel and Barrett",298.09,679.57,104,99,2024-05-11,False
+81,Headphones,Electronics,Headphones,Apex,Gallegos Inc,392.4,648.0,677,57,2023-06-19,True
+82,Football,Sports,Football,TechPro,"Carson, Erickson and Lee",425.54,965.56,443,56,2024-01-16,False
+83,Coffee Mug,Home,Coffee Mug,Fusion,Alvarez-Beard,92.19,173.16,276,88,2025-12-25,False
+84,Sneakers,Clothing,Sneakers,Prime,Turner-Leonard,413.74,815.16,872,41,2026-06-27,True
+85,Dumbbell,Sports,Dumbbell,Vertex,Silva-Foster,125.71,226.8,684,58,2025-04-19,False
+86,Monitor,Electronics,Monitor,Nova,"Johns, Santos and Martin",426.22,612.22,363,43,2023-03-16,False
+87,Yoga Mat,Sports,Yoga Mat,Nova,Mueller-Perez,280.12,524.28,87,40,2023-07-26,False
+88,Jeans,Clothing,Jeans,Apex,Martinez-Cox,346.85,707.46,458,12,2022-09-09,True
+89,Basketball,Sports,Basketball,Fusion,Bell Inc,205.18,311.11,595,57,2022-09-07,False
+90,Dumbbell,Sports,Dumbbell,Prime,"Reed, Moore and Duffy",498.33,954.55,719,68,2023-11-24,False
+91,Yoga Mat,Sports,Yoga Mat,Prime,"Lucas, Sanchez and Brown",119.12,254.64,122,78,2023-02-04,True
+92,Desk,Home,Desk,Vertex,Mathews-Alexander,370.61,577.95,1000,77,2023-03-29,False
+93,Keyboard,Electronics,Keyboard,Prime,"Martinez, Torres and George",151.64,253.11,14,100,2023-06-27,True
+94,Football,Sports,Football,Fusion,Green Inc,487.28,935.27,966,26,2025-03-21,False
+95,Laptop,Electronics,Laptop,Apex,"Lopez, Marshall and Gomez",289.16,523.44,348,33,2022-09-22,True
+96,Dumbbell,Sports,Dumbbell,Apex,Watson-Booker,61.47,78.99,75,83,2025-02-16,True
+97,Desk,Home,Desk,TechPro,Hanson Inc,406.52,989.41,254,25,2022-09-02,False
+98,Coffee Mug,Home,Coffee Mug,Vertex,"Henderson, Smith and Green",228.0,404.82,439,49,2024-12-27,True
+99,Keyboard,Electronics,Keyboard,TechPro,Tate-Riley,314.63,485.8,160,40,2024-04-04,True
+100,Keyboard,Electronics,Keyboard,Vertex,Wilson Inc,6.32,11.29,481,47,2024-10-17,True
+101,Lamp,Home,Lamp,Apex,Ayers and Sons,354.94,750.3,72,97,2023-10-11,True
+102,Basketball,Sports,Basketball,Fusion,Matthews-Estes,215.44,411.04,152,44,2023-01-01,True
+103,Laptop,Electronics,Laptop,Fusion,Orozco Inc,87.13,139.4,844,82,2023-08-14,False
+104,T-Shirt,Clothing,T-Shirt,Apex,Soto LLC,237.01,378.11,965,44,2023-10-20,False
+105,T-Shirt,Clothing,T-Shirt,Fusion,"Sawyer, Reed and Burgess",301.03,709.3,330,87,2024-12-30,False
+106,Laptop,Electronics,Laptop,Vertex,"Kaiser, Gomez and Banks",118.32,245.7,601,12,2023-08-13,False
+107,Keyboard,Electronics,Keyboard,Prime,Walker-Luna,237.9,486.97,185,84,2023-10-19,False
+108,T-Shirt,Clothing,T-Shirt,Prime,"Johnston, Ellis and Boone",237.66,411.35,686,23,2022-08-15,True
+109,Dumbbell,Sports,Dumbbell,Apex,Paul Group,348.37,548.57,833,80,2023-03-29,True
+110,T-Shirt,Clothing,T-Shirt,Apex,"Hardy, Spence and Fowler",160.69,260.36,885,75,2022-12-10,True
+111,Sneakers,Clothing,Sneakers,Vertex,Taylor LLC,31.83,59.65,774,73,2025-01-27,False
+112,Keyboard,Electronics,Keyboard,Prime,"Hamilton, Parrish and Carey",137.19,187.99,448,99,2026-05-28,False
+113,Laptop,Electronics,Laptop,Nova,"Jordan, Norman and Watson",486.71,969.3,726,30,2023-08-26,False
+114,Headphones,Electronics,Headphones,TechPro,Ortega Group,206.96,308.81,472,25,2022-07-31,True
+115,Jacket,Clothing,Jacket,Apex,"Harris, Hunt and Gregory",256.89,399.58,483,41,2024-09-09,False
+116,Coffee Mug,Home,Coffee Mug,Fusion,"Young, Lee and Blanchard",99.35,196.63,900,27,2022-09-14,True
+117,Dumbbell,Sports,Dumbbell,Prime,"West, Wood and Jones",173.24,385.29,840,10,2023-12-21,False
+118,Dumbbell,Sports,Dumbbell,Apex,Gray-Steele,433.3,771.5,353,52,2023-09-04,False
+119,Jacket,Clothing,Jacket,Nova,Marquez and Sons,435.45,1077.74,585,59,2023-05-28,True
+120,T-Shirt,Clothing,T-Shirt,Apex,"Lewis, Paul and Gomez",162.5,294.92,395,94,2025-12-22,True
+121,T-Shirt,Clothing,T-Shirt,Prime,"Townsend, Lynn and Ruiz",67.49,165.69,890,22,2022-11-14,False
+122,Headphones,Electronics,Headphones,Nova,Mccarthy-Meyer,455.67,555.9,419,93,2025-09-30,True
+123,Monitor,Electronics,Monitor,Vertex,Gonzales-King,391.86,605.24,709,60,2025-09-03,True
+124,Dumbbell,Sports,Dumbbell,Apex,Rodriguez-Harrison,477.3,961.68,893,79,2024-08-30,True
+125,Keyboard,Electronics,Keyboard,Nova,Cobb-Hill,317.42,760.92,764,21,2026-02-09,False
+126,Laptop,Electronics,Laptop,TechPro,Jenkins Ltd,224.62,472.2,47,51,2025-08-11,True
+127,Yoga Mat,Sports,Yoga Mat,Vertex,Sosa Inc,190.55,264.72,421,82,2023-08-04,True
+128,Desk,Home,Desk,Vertex,Hancock Inc,44.09,102.82,699,40,2024-07-10,False
+129,Desk,Home,Desk,Prime,Rodriguez PLC,233.27,356.94,682,11,2026-06-13,False
+130,Basketball,Sports,Basketball,Vertex,Soto Group,41.56,100.94,306,91,2023-04-14,False
+131,Dumbbell,Sports,Dumbbell,Apex,Cooper PLC,423.43,617.78,873,71,2025-06-18,True
+132,Coffee Mug,Home,Coffee Mug,Fusion,Ross-Young,288.1,561.0,302,12,2024-08-21,False
+133,Football,Sports,Football,Fusion,"Shaw, Meadows and Stevens",285.13,596.36,996,16,2024-09-20,False
+134,Basketball,Sports,Basketball,Fusion,Beasley-Nelson,305.5,506.52,194,89,2025-10-09,False
+135,Chair,Home,Chair,Prime,Miranda-James,452.18,922.56,807,66,2026-02-02,True
+136,Basketball,Sports,Basketball,Fusion,Suarez-Taylor,49.62,78.58,425,32,2024-04-06,True
+137,Lamp,Home,Lamp,Nova,Lopez-Morales,267.77,639.31,263,71,2023-09-14,False
+138,Football,Sports,Football,Nova,Dickerson-Jenkins,236.82,307.37,880,96,2025-03-21,False
+139,Football,Sports,Football,Vertex,Morales PLC,396.39,482.84,126,68,2025-01-25,False
+140,Dumbbell,Sports,Dumbbell,TechPro,"Hoffman, Kelly and Page",412.1,998.26,691,39,2022-07-19,False
+141,Headphones,Electronics,Headphones,Vertex,Lee-Montoya,442.7,854.34,226,92,2023-07-31,True
+142,Jacket,Clothing,Jacket,TechPro,Wiley-Solis,326.37,441.15,968,14,2023-12-06,False
+143,T-Shirt,Clothing,T-Shirt,Nova,"Lewis, Estrada and Garrett",53.11,124.99,397,68,2023-01-06,False
+144,Jeans,Clothing,Jeans,Apex,Mueller Ltd,443.28,909.34,630,62,2026-03-08,False
+145,Mouse,Electronics,Mouse,Nova,"Evans, Boone and Smith",112.55,200.13,875,56,2024-07-08,True
+146,Yoga Mat,Sports,Yoga Mat,TechPro,"Leach, Jimenez and Bruce",34.97,54.51,971,68,2022-08-22,True
+147,Chair,Home,Chair,Nova,"Hudson, Ramirez and Holt",30.04,49.07,805,82,2024-10-31,True
+148,Headphones,Electronics,Headphones,Nova,"Welch, Thompson and Wilson",107.54,159.24,336,28,2025-07-06,True
+149,Basketball,Sports,Basketball,Nova,"Hooper, Stevens and Ward",493.83,939.4,112,94,2025-07-25,True
+150,Chair,Home,Chair,Vertex,Fisher Inc,182.33,405.68,331,12,2023-12-09,True
+151,Football,Sports,Football,TechPro,"Lewis, Jones and Hernandez",67.75,118.38,763,18,2023-08-07,False
+152,Jacket,Clothing,Jacket,Vertex,Johnson Group,259.05,347.59,226,88,2025-04-16,True
+153,Dumbbell,Sports,Dumbbell,Apex,Warner PLC,323.45,401.24,867,61,2023-05-25,False
+154,Monitor,Electronics,Monitor,TechPro,Snow Ltd,357.64,635.39,329,87,2024-05-21,True
+155,Keyboard,Electronics,Keyboard,Vertex,Jennings-Martin,141.13,285.51,729,51,2025-10-20,False
+156,Dumbbell,Sports,Dumbbell,Fusion,White-Johnson,255.25,449.05,117,93,2025-07-22,True
+157,Sneakers,Clothing,Sneakers,Apex,Gonzalez Group,444.61,772.71,408,63,2023-01-12,True
+158,Dumbbell,Sports,Dumbbell,Nova,Fernandez and Sons,159.7,244.56,703,70,2023-04-19,True
+159,Laptop,Electronics,Laptop,Fusion,"Parks, Walsh and Anderson",51.15,67.8,381,26,2023-10-05,True
+160,Football,Sports,Football,Apex,Hammond and Sons,208.35,486.64,888,16,2022-10-18,False
+161,Yoga Mat,Sports,Yoga Mat,Nova,"Hinton, Schmidt and White",56.28,104.66,672,71,2024-06-17,True
+162,Mouse,Electronics,Mouse,Prime,Weber Group,423.46,710.49,587,38,2024-11-07,False
+163,Headphones,Electronics,Headphones,Prime,Trevino-Robinson,464.9,1059.18,29,33,2023-12-15,False
+164,Yoga Mat,Sports,Yoga Mat,Nova,Crawford-Wright,178.76,256.67,579,94,2023-08-06,False
+165,Keyboard,Electronics,Keyboard,TechPro,Williams Ltd,371.78,915.83,764,77,2025-08-26,True
+166,Sneakers,Clothing,Sneakers,Prime,Harmon-Acosta,229.55,322.43,738,51,2024-04-18,True
+167,Keyboard,Electronics,Keyboard,Fusion,"Drake, Goodwin and Mcmahon",82.92,166.1,83,44,2023-05-10,False
+168,Sneakers,Clothing,Sneakers,Nova,Burke-Hunt,305.5,531.09,773,75,2025-08-11,True
+169,Dumbbell,Sports,Dumbbell,Vertex,Brown-Johnson,59.89,124.67,498,77,2024-11-05,False
+170,Keyboard,Electronics,Keyboard,TechPro,Baker Group,200.66,397.13,209,48,2025-09-10,True
+171,Lamp,Home,Lamp,Apex,Stephenson Ltd,148.28,201.06,764,65,2024-03-19,True
+172,Coffee Mug,Home,Coffee Mug,Vertex,"Warren, Smith and Luna",268.63,402.72,853,95,2023-09-25,False
+173,Monitor,Electronics,Monitor,TechPro,Hahn and Sons,431.57,541.62,470,19,2024-11-02,False
+174,Sneakers,Clothing,Sneakers,TechPro,Silva Ltd,356.2,620.86,414,12,2023-12-29,False
+175,Coffee Mug,Home,Coffee Mug,TechPro,Owens-Wiggins,416.85,998.65,447,23,2026-06-08,True
+176,Sneakers,Clothing,Sneakers,Prime,"Ponce, Malone and Duffy",264.36,453.24,763,53,2025-12-16,True
+177,Basketball,Sports,Basketball,Vertex,Brown-Watts,42.81,86.61,522,34,2025-07-08,False
+178,Basketball,Sports,Basketball,Nova,Williams-Castillo,121.95,169.56,177,87,2025-05-09,True
+179,Keyboard,Electronics,Keyboard,Apex,Patrick and Sons,475.89,959.55,772,82,2023-11-04,False
+180,Yoga Mat,Sports,Yoga Mat,Apex,Hampton and Sons,79.72,102.74,646,48,2024-05-11,False
+181,Mouse,Electronics,Mouse,Apex,Valencia-Torres,256.13,410.71,38,17,2025-03-16,False
+182,Football,Sports,Football,TechPro,Rodriguez-Boyd,324.11,800.74,629,86,2026-05-21,False
+183,T-Shirt,Clothing,T-Shirt,Fusion,Holland-Floyd,227.62,512.77,192,51,2022-08-21,False
+184,Chair,Home,Chair,Prime,"Barker, Stewart and Garcia",228.01,513.99,731,20,2025-02-26,True
+185,Keyboard,Electronics,Keyboard,Vertex,"Kim, Clark and Elliott",355.27,884.01,535,88,2023-11-11,True
+186,Yoga Mat,Sports,Yoga Mat,Prime,Johnson-Jefferson,459.38,782.62,695,86,2024-01-06,True
+187,Football,Sports,Football,Apex,West LLC,168.2,323.84,290,42,2022-09-27,True
+188,Football,Sports,Football,Prime,Dean PLC,293.46,406.11,317,93,2023-07-04,False
+189,Chair,Home,Chair,Prime,Thomas-Hill,158.24,267.38,832,26,2023-03-13,True
+190,Jacket,Clothing,Jacket,Nova,Ingram-Marquez,14.02,22.45,349,72,2023-08-25,True
+191,Desk,Home,Desk,TechPro,"Banks, Johnson and Palmer",81.7,129.46,519,79,2024-05-25,True
+192,Basketball,Sports,Basketball,Nova,Hernandez-Brooks,300.64,421.05,851,98,2023-07-07,True
+193,T-Shirt,Clothing,T-Shirt,Nova,Parrish and Sons,208.38,433.28,992,66,2023-06-08,False
+194,Jeans,Clothing,Jeans,Apex,"Sims, Hubbard and Ayala",269.34,431.57,925,34,2025-02-25,False
+195,Sneakers,Clothing,Sneakers,Vertex,Willis-Jensen,385.87,853.38,540,63,2025-11-16,True
+196,Desk,Home,Desk,Apex,Phillips-Rodriguez,437.14,554.22,895,57,2023-08-22,True
+197,Mouse,Electronics,Mouse,Apex,Green Group,46.52,65.52,927,75,2023-09-14,True
+198,T-Shirt,Clothing,T-Shirt,Apex,Irwin-Jones,473.47,704.83,905,54,2025-02-17,True
+199,T-Shirt,Clothing,T-Shirt,Apex,Miller and Sons,201.24,339.32,83,57,2025-09-06,True
+200,Mouse,Electronics,Mouse,Fusion,"Brown, Williams and Ramsey",465.76,1067.02,343,28,2023-09-21,True
+201,Mouse,Electronics,Mouse,Nova,Owen Ltd,459.11,832.91,777,100,2025-05-31,False
+202,T-Shirt,Clothing,T-Shirt,Nova,Atkins PLC,453.4,555.28,855,29,2022-08-01,False
+203,Mouse,Electronics,Mouse,Nova,Patel-Lindsey,122.63,166.58,429,91,2025-02-25,False
+204,Laptop,Electronics,Laptop,Vertex,"Ford, Bishop and Kramer",419.16,775.35,16,90,2023-01-26,True
+205,Lamp,Home,Lamp,Nova,"Johnson, Fernandez and Wilson",217.47,434.78,584,63,2023-08-19,True
+206,Headphones,Electronics,Headphones,Vertex,Davis-Lopez,487.45,627.83,557,74,2025-11-09,True
+207,Sneakers,Clothing,Sneakers,Prime,"Williams, Bennett and Lynch",26.55,45.21,259,12,2023-09-22,False
+208,Mouse,Electronics,Mouse,TechPro,Benitez Inc,124.36,255.46,790,84,2026-02-13,False
+209,Chair,Home,Chair,Fusion,Calhoun-Jones,179.39,294.22,179,97,2023-10-04,False
+210,Jeans,Clothing,Jeans,Apex,Lewis PLC,406.69,521.39,37,47,2023-06-15,True
+211,Keyboard,Electronics,Keyboard,Prime,"Zuniga, Morgan and Hopkins",443.47,714.11,527,60,2024-03-09,False
+212,Football,Sports,Football,Prime,Stevens-Taylor,377.88,547.33,882,16,2025-03-30,False
+213,Football,Sports,Football,Apex,"Anderson, Pittman and York",400.67,708.4,761,66,2025-10-19,False
+214,Basketball,Sports,Basketball,Vertex,"Todd, Moore and Smith",250.62,462.84,273,20,2022-07-28,False
+215,Monitor,Electronics,Monitor,Vertex,Payne-Pitts,303.21,688.0,300,51,2023-02-27,True
+216,Mouse,Electronics,Mouse,Vertex,"Vaughn, Romero and Williams",332.16,530.94,734,64,2023-02-28,True
+217,Jacket,Clothing,Jacket,Prime,Harvey Group,226.33,485.45,629,65,2024-03-07,False
+218,Laptop,Electronics,Laptop,Vertex,Turner-Smith,337.24,582.78,820,96,2023-12-30,True
+219,Keyboard,Electronics,Keyboard,Apex,"Clark, Moore and Diaz",425.09,884.83,35,26,2025-11-24,True
+220,Lamp,Home,Lamp,TechPro,"Chavez, Williams and Pittman",184.26,448.55,619,29,2025-01-26,False
+221,Yoga Mat,Sports,Yoga Mat,Nova,Lawrence-Mcpherson,224.75,292.16,542,56,2022-09-25,False
+222,Yoga Mat,Sports,Yoga Mat,Fusion,"Smith, Kirby and Allen",128.56,173.23,190,73,2023-09-04,False
+223,Mouse,Electronics,Mouse,Nova,Joyce PLC,388.61,822.01,626,46,2024-07-18,False
+224,Chair,Home,Chair,Nova,"Oconnor, Coleman and Miles",72.19,93.58,920,66,2023-01-14,True
+225,Yoga Mat,Sports,Yoga Mat,Prime,Jenkins and Sons,356.22,682.16,912,48,2026-02-09,True
+226,Lamp,Home,Lamp,Nova,"Jackson, Taylor and Shaw",256.83,348.72,811,27,2023-12-20,True
+227,T-Shirt,Clothing,T-Shirt,Apex,"Huber, Brown and Roberts",183.64,356.99,822,80,2025-04-16,True
+228,Laptop,Electronics,Laptop,Fusion,"Morris, Daniel and Odonnell",158.1,395.17,490,77,2025-12-27,False
+229,T-Shirt,Clothing,T-Shirt,TechPro,Pierce PLC,67.04,108.08,460,69,2026-06-05,False
+230,Desk,Home,Desk,Vertex,"Riley, Brooks and Keith",385.05,526.65,932,17,2026-06-12,True
+231,Lamp,Home,Lamp,Fusion,Beck PLC,86.51,140.1,230,54,2022-10-15,False
+232,Mouse,Electronics,Mouse,Prime,Aguilar and Sons,102.17,249.63,128,90,2023-03-29,False
+233,Headphones,Electronics,Headphones,Vertex,Lamb-Wilson,322.29,634.7,157,31,2025-09-15,False
+234,Laptop,Electronics,Laptop,Vertex,Moses-Bryan,45.21,110.0,271,93,2023-06-17,True
+235,T-Shirt,Clothing,T-Shirt,Prime,"King, Phillips and Guerrero",251.53,506.91,657,48,2026-04-30,False
+236,Coffee Mug,Home,Coffee Mug,TechPro,Williams PLC,152.23,197.12,161,66,2024-06-28,False
+237,Sneakers,Clothing,Sneakers,Prime,Reid Ltd,105.99,210.78,882,50,2023-08-06,False
+238,Jeans,Clothing,Jeans,TechPro,Berger Group,381.53,713.26,326,40,2023-04-12,False
+239,Mouse,Electronics,Mouse,TechPro,Silva Inc,227.55,314.73,297,59,2026-01-08,False
+240,Desk,Home,Desk,Fusion,"Weeks, Taylor and Sims",407.67,984.07,320,34,2024-02-11,True
+241,Sneakers,Clothing,Sneakers,TechPro,Haynes-Arias,251.89,403.3,92,60,2023-12-31,False
+242,Desk,Home,Desk,Prime,Jacobs LLC,293.76,371.09,506,86,2026-06-01,False
+243,Football,Sports,Football,Prime,Thomas-Serrano,424.35,746.94,744,56,2023-09-10,False
+244,Football,Sports,Football,Nova,Harper-Tucker,203.29,394.66,371,80,2025-12-12,False
+245,Monitor,Electronics,Monitor,Prime,Carpenter-White,254.61,558.54,845,89,2023-04-25,True
+246,Chair,Home,Chair,Prime,Thomas Inc,199.98,446.63,571,56,2023-10-10,True
+247,Coffee Mug,Home,Coffee Mug,Nova,Lopez-Jones,252.54,317.92,730,52,2022-09-25,False
+248,Jeans,Clothing,Jeans,Prime,Johnson PLC,305.1,570.59,953,88,2026-06-29,False
+249,Coffee Mug,Home,Coffee Mug,Prime,Stone-Garcia,495.35,1070.51,607,53,2022-10-22,False
+250,Dumbbell,Sports,Dumbbell,Fusion,"Thomas, Hammond and Brown",408.8,686.32,112,63,2024-10-05,False
+251,Headphones,Electronics,Headphones,Vertex,Sanchez Inc,239.92,589.53,591,39,2023-05-23,True
+252,Jeans,Clothing,Jeans,Apex,Levine and Sons,264.5,565.38,151,97,2023-09-11,True
+253,Headphones,Electronics,Headphones,TechPro,"Hale, Wood and Silva",474.36,637.0,451,50,2022-07-18,False
+254,Coffee Mug,Home,Coffee Mug,Vertex,Carter-Marquez,346.8,601.17,942,70,2022-10-23,True
+255,Desk,Home,Desk,Apex,Jones Inc,282.64,705.91,538,58,2023-09-18,False
+256,Coffee Mug,Home,Coffee Mug,Prime,Brown-Moreno,456.5,750.95,692,97,2022-09-13,False
+257,Jeans,Clothing,Jeans,Prime,"Sanchez, Franklin and Rowe",478.88,748.35,230,48,2022-08-28,False
+258,Coffee Mug,Home,Coffee Mug,Fusion,Kent Group,161.94,267.76,280,46,2026-02-19,True
+259,Sneakers,Clothing,Sneakers,Nova,Bryant Ltd,410.1,1001.05,297,15,2023-11-05,False
+260,Mouse,Electronics,Mouse,Fusion,"Adams, Haley and Chavez",462.38,949.16,490,37,2025-09-25,True
+261,Yoga Mat,Sports,Yoga Mat,Vertex,"Le, Park and Molina",72.95,145.93,245,41,2022-10-21,True
+262,Desk,Home,Desk,Fusion,"Huerta, Navarro and Dawson",30.98,53.82,483,22,2025-07-30,True
+263,Headphones,Electronics,Headphones,Fusion,Simmons-Soto,489.07,687.3,957,70,2025-07-28,False
+264,Lamp,Home,Lamp,TechPro,"Reynolds, Nelson and Roberts",163.98,334.46,667,83,2022-09-18,True
+265,Keyboard,Electronics,Keyboard,TechPro,Simmons-Dickerson,211.85,484.9,856,60,2024-12-14,False
+266,Lamp,Home,Lamp,Vertex,"Kent, Saunders and Moore",438.99,532.08,617,23,2024-04-26,False
+267,Dumbbell,Sports,Dumbbell,Apex,Hernandez-Riley,494.6,942.85,910,27,2026-05-22,False
+268,Basketball,Sports,Basketball,Fusion,Mann PLC,405.36,660.69,469,92,2023-05-21,False
+269,Chair,Home,Chair,Vertex,Thomas LLC,369.63,823.53,690,34,2024-04-07,True
+270,Sneakers,Clothing,Sneakers,Fusion,Jenkins-Thompson,260.06,341.4,97,33,2025-01-11,True
+271,Jacket,Clothing,Jacket,Apex,Finley-Meyers,468.23,566.03,241,67,2025-12-24,False
+272,Yoga Mat,Sports,Yoga Mat,Prime,"Moore, Russell and Williams",293.32,570.43,669,56,2024-01-07,True
+273,Laptop,Electronics,Laptop,Fusion,"Mitchell, Spencer and Wilson",235.37,331.31,514,100,2023-07-23,False
+274,Mouse,Electronics,Mouse,Nova,Mueller PLC,186.93,277.98,489,29,2025-12-18,False
+275,Dumbbell,Sports,Dumbbell,Vertex,"Conley, Vance and Young",352.46,841.19,821,95,2025-06-15,True
+276,Chair,Home,Chair,Prime,Cobb and Sons,265.13,500.2,79,82,2023-09-29,True
+277,Headphones,Electronics,Headphones,Vertex,Johnson-Ryan,451.93,661.08,153,31,2022-10-26,False
+278,T-Shirt,Clothing,T-Shirt,Apex,"Riley, Bray and Chapman",341.75,728.61,93,75,2023-09-16,False
+279,Monitor,Electronics,Monitor,Vertex,Lin Group,70.31,122.34,59,81,2022-10-19,False
+280,Football,Sports,Football,Fusion,"Harmon, Nixon and Le",200.99,454.52,223,84,2022-08-14,True
+281,Monitor,Electronics,Monitor,TechPro,"Anthony, Molina and Meadows",175.54,225.2,957,18,2025-04-16,False
+282,Mouse,Electronics,Mouse,Fusion,Young-Mitchell,207.39,456.19,746,92,2023-04-09,False
+283,Dumbbell,Sports,Dumbbell,Apex,Mercer-Hayes,227.03,543.11,384,20,2022-12-24,True
+284,Football,Sports,Football,Vertex,"Walker, Stephens and Maxwell",93.34,177.2,130,38,2026-02-24,True
+285,Mouse,Electronics,Mouse,Apex,"Blackburn, Dean and Grant",234.19,499.95,544,58,2023-05-03,True
+286,Coffee Mug,Home,Coffee Mug,Fusion,Ramsey and Sons,176.35,274.81,783,24,2023-02-01,True
+287,T-Shirt,Clothing,T-Shirt,Vertex,Williams PLC,124.13,159.81,34,67,2023-08-19,True
+288,Chair,Home,Chair,Nova,"Robles, Gomez and Moreno",204.12,307.13,772,17,2025-08-10,True
+289,Basketball,Sports,Basketball,Prime,Weaver-Ortiz,408.81,879.34,591,86,2026-04-12,False
+290,Lamp,Home,Lamp,Vertex,Navarro PLC,438.75,1088.72,226,62,2022-08-06,False
+291,Football,Sports,Football,Fusion,"Baxter, Hall and Hernandez",280.58,552.51,933,32,2023-07-27,False
+292,T-Shirt,Clothing,T-Shirt,Fusion,Montgomery-Rich,486.28,1178.77,390,77,2025-01-30,False
+293,Sneakers,Clothing,Sneakers,Vertex,Lewis Group,78.86,133.23,484,40,2024-12-08,True
+294,Basketball,Sports,Basketball,Vertex,Scott-White,403.86,964.89,422,63,2023-10-18,True
+295,Jeans,Clothing,Jeans,TechPro,Williams-Greene,131.22,213.8,944,67,2024-05-26,False
+296,Headphones,Electronics,Headphones,Prime,Montoya-Davies,363.67,526.46,386,96,2025-04-04,True
+297,Keyboard,Electronics,Keyboard,Fusion,Benton PLC,403.3,792.02,572,37,2022-09-10,False
+298,Lamp,Home,Lamp,Nova,Webster LLC,155.08,369.35,959,34,2026-06-19,True
+299,Jeans,Clothing,Jeans,Apex,Swanson PLC,349.34,738.82,937,40,2025-04-27,False
+300,Dumbbell,Sports,Dumbbell,Prime,"Espinoza, Perez and Richards",235.79,481.8,267,56,2026-05-19,False
+301,T-Shirt,Clothing,T-Shirt,Prime,"Rodriguez, Hays and Rhodes",402.39,860.77,936,36,2024-08-21,False
+302,Dumbbell,Sports,Dumbbell,Fusion,Phillips Inc,27.63,64.19,149,12,2025-04-04,False
+303,Jacket,Clothing,Jacket,Apex,"Johnson, Martinez and Green",80.44,131.02,583,41,2023-09-23,False
+304,Yoga Mat,Sports,Yoga Mat,Fusion,Boyd-Cox,382.86,702.63,657,72,2026-04-10,False
+305,Lamp,Home,Lamp,Apex,Myers and Sons,88.79,189.69,188,79,2022-10-19,True
+306,Laptop,Electronics,Laptop,TechPro,Miller Ltd,472.87,978.22,422,27,2023-08-04,True
+307,Keyboard,Electronics,Keyboard,Prime,Hogan LLC,9.53,17.7,61,89,2023-08-30,False
+308,T-Shirt,Clothing,T-Shirt,TechPro,Davenport-Tran,8.27,15.85,17,77,2024-01-02,False
+309,Football,Sports,Football,Apex,Baker-Barnes,253.6,534.39,825,32,2026-04-09,True
+310,Headphones,Electronics,Headphones,Vertex,"Nixon, Meza and Parks",78.7,114.08,258,55,2023-05-01,False
+311,T-Shirt,Clothing,T-Shirt,Vertex,"Cox, Lyons and Jones",189.66,327.7,249,99,2025-10-12,True
+312,Football,Sports,Football,TechPro,"Harrington, Estrada and Clements",328.6,760.93,95,61,2025-12-13,False
+313,Sneakers,Clothing,Sneakers,Nova,Cooper LLC,32.78,39.74,84,73,2026-02-24,False
+314,Football,Sports,Football,Nova,Horton-Baker,447.92,1072.72,216,98,2024-02-09,False
+315,Football,Sports,Football,Prime,Gonzales Inc,462.46,966.43,920,79,2024-05-02,True
+316,Lamp,Home,Lamp,Nova,Hawkins Group,12.75,18.73,770,60,2024-08-26,True
+317,Basketball,Sports,Basketball,Apex,Costa LLC,284.16,550.33,693,79,2025-07-24,False
+318,Jeans,Clothing,Jeans,TechPro,Reed Inc,396.3,830.69,512,54,2022-09-26,True
+319,Monitor,Electronics,Monitor,Vertex,Reeves Ltd,119.91,155.74,787,88,2024-07-11,False
+320,Football,Sports,Football,Apex,"Scott, Jones and Walker",318.89,707.49,502,39,2026-07-14,False
+321,Sneakers,Clothing,Sneakers,Apex,Meadows Inc,96.94,190.16,87,89,2023-06-03,False
+322,Chair,Home,Chair,Fusion,Simon-James,45.61,63.88,802,91,2024-04-08,True
+323,Jacket,Clothing,Jacket,Prime,Myers Group,183.55,242.1,455,56,2023-01-24,False
+324,Keyboard,Electronics,Keyboard,Vertex,Watkins Inc,48.21,84.86,568,75,2025-09-24,False
+325,Laptop,Electronics,Laptop,Vertex,"Smith, Shah and Ford",49.36,94.8,612,51,2026-05-21,False
+326,Mouse,Electronics,Mouse,Fusion,Baker Ltd,209.84,464.36,922,81,2024-12-27,True
+327,Coffee Mug,Home,Coffee Mug,Prime,Shaw-Tran,88.9,137.76,504,28,2025-02-13,True
+328,Coffee Mug,Home,Coffee Mug,TechPro,Harmon-Hill,141.6,225.1,369,42,2024-05-21,True
+329,Jeans,Clothing,Jeans,TechPro,Kline LLC,231.64,318.77,971,60,2024-03-24,False
+330,Jacket,Clothing,Jacket,Fusion,"Church, Williamson and Cruz",222.91,392.28,997,86,2023-06-04,True
+331,Yoga Mat,Sports,Yoga Mat,Apex,"Mcmillan, Lopez and Burgess",303.59,638.72,321,32,2026-05-15,False
+332,Yoga Mat,Sports,Yoga Mat,Vertex,Hunter Ltd,368.76,745.92,800,41,2023-01-25,False
+333,Jacket,Clothing,Jacket,TechPro,"Ramirez, Gentry and Beck",409.16,700.0,954,82,2026-03-12,True
+334,Chair,Home,Chair,Fusion,Dillon Ltd,476.74,858.18,214,66,2026-01-06,False
+335,Monitor,Electronics,Monitor,Prime,Wilson-Hendrix,338.12,466.92,247,42,2026-02-05,True
+336,Sneakers,Clothing,Sneakers,Apex,"Scott, Orr and Turner",41.61,103.52,596,61,2025-08-02,False
+337,Mouse,Electronics,Mouse,Vertex,Sanchez-Davis,352.31,794.81,653,20,2022-08-22,True
+338,Lamp,Home,Lamp,Vertex,Johnson Inc,87.34,174.37,660,96,2025-11-06,False
+339,Dumbbell,Sports,Dumbbell,Nova,"Johnston, Clark and Wang",57.44,76.29,522,76,2022-11-07,True
+340,Jacket,Clothing,Jacket,Vertex,Castillo Group,198.61,437.75,707,74,2024-04-17,True
+341,Football,Sports,Football,TechPro,Gill LLC,243.97,386.46,118,28,2023-07-08,False
+342,Yoga Mat,Sports,Yoga Mat,Apex,Bailey and Sons,230.39,338.43,356,70,2024-06-26,True
+343,Sneakers,Clothing,Sneakers,Fusion,"Fisher, Harris and Brown",162.86,259.0,117,12,2025-05-16,False
+344,Keyboard,Electronics,Keyboard,Vertex,"Jimenez, Kramer and Campbell",465.31,1006.3,178,80,2026-02-10,True
+345,Dumbbell,Sports,Dumbbell,Apex,Wilkerson-Smith,479.44,719.84,644,33,2025-09-21,True
+346,Sneakers,Clothing,Sneakers,Nova,"Smith, Gray and Shelton",19.45,38.87,460,85,2025-06-26,False
+347,T-Shirt,Clothing,T-Shirt,Fusion,Sanchez PLC,353.84,519.27,828,18,2024-08-26,True
+348,Lamp,Home,Lamp,Prime,Parks-Olson,166.36,298.59,686,72,2024-08-03,False
+349,Sneakers,Clothing,Sneakers,Apex,Vasquez-Powell,295.57,488.37,632,32,2024-10-20,False
+350,Keyboard,Electronics,Keyboard,TechPro,Hale-Andrade,160.03,241.67,187,57,2024-02-01,True
+351,Sneakers,Clothing,Sneakers,Apex,Hernandez Ltd,300.23,584.62,190,72,2024-02-25,True
+352,Coffee Mug,Home,Coffee Mug,Apex,Jones-Stewart,147.97,213.55,634,16,2025-06-30,False
+353,Monitor,Electronics,Monitor,Vertex,Baker Group,72.58,164.01,517,93,2024-06-01,False
+354,Sneakers,Clothing,Sneakers,Apex,"Maynard, Miller and Ross",210.74,482.99,171,20,2026-02-14,True
+355,Lamp,Home,Lamp,Prime,Reynolds-Davis,21.18,31.61,172,68,2024-08-24,False
+356,Headphones,Electronics,Headphones,Prime,Lynch LLC,61.53,135.84,555,15,2022-10-08,False
+357,Coffee Mug,Home,Coffee Mug,Nova,"Wallace, Bennett and Reed",55.7,126.95,304,14,2022-11-22,False
+358,Yoga Mat,Sports,Yoga Mat,TechPro,Mcdowell PLC,431.79,566.97,794,40,2025-11-10,True
+359,Dumbbell,Sports,Dumbbell,Nova,"Gallegos, Crawford and Bautista",87.16,120.37,833,36,2025-04-08,True
+360,Yoga Mat,Sports,Yoga Mat,Fusion,"Ramos, Dodson and Pearson",300.44,426.29,299,47,2025-10-21,False
+361,Keyboard,Electronics,Keyboard,TechPro,Nelson-Knight,481.57,1069.76,283,93,2024-11-30,True
+362,Desk,Home,Desk,Nova,Harris Group,77.39,125.27,779,96,2023-04-16,False
+363,Jeans,Clothing,Jeans,Apex,Pitts-Mann,290.83,450.59,384,67,2023-09-11,True
+364,Monitor,Electronics,Monitor,Prime,"Thompson, Sanchez and Strickland",260.23,406.4,465,72,2024-06-23,False
+365,Laptop,Electronics,Laptop,Fusion,Smith-Johnson,366.81,658.78,714,55,2026-02-12,True
+366,Jeans,Clothing,Jeans,Apex,Mcfarland Ltd,484.22,1100.29,274,51,2023-09-10,False
+367,Basketball,Sports,Basketball,Prime,"Bryant, Romero and Wilson",285.24,522.26,915,97,2024-08-27,True
+368,Laptop,Electronics,Laptop,TechPro,"Winters, Hansen and Harris",314.96,720.54,127,30,2024-07-09,False
+369,T-Shirt,Clothing,T-Shirt,Fusion,"Stevens, Spears and Miller",495.96,870.97,931,26,2025-01-27,False
+370,Lamp,Home,Lamp,TechPro,"Wong, Clements and Kelley",51.2,85.43,380,95,2024-08-16,True
+371,Monitor,Electronics,Monitor,Nova,"Thompson, Thompson and Lopez",314.67,674.58,439,93,2023-11-25,True
+372,Laptop,Electronics,Laptop,Vertex,Williams-Pierce,110.64,143.98,231,76,2023-12-22,False
+373,Laptop,Electronics,Laptop,Apex,Andrews-Rodriguez,349.32,790.25,710,26,2024-12-19,False
+374,Keyboard,Electronics,Keyboard,TechPro,Sanchez-Reid,194.62,418.43,105,50,2025-08-08,False
+375,Basketball,Sports,Basketball,Nova,Gardner-Gonzalez,194.45,438.95,656,96,2026-03-13,True
+376,Headphones,Electronics,Headphones,Nova,"Warren, Medina and Nguyen",283.83,565.79,450,54,2026-01-20,True
+377,Coffee Mug,Home,Coffee Mug,Nova,Rivera-Mercado,309.96,550.21,88,22,2026-04-26,True
+378,Headphones,Electronics,Headphones,Apex,Reynolds-Huff,366.35,607.04,322,27,2026-06-09,True
+379,Football,Sports,Football,Fusion,"Lucas, Burns and Calhoun",127.84,253.29,622,46,2026-01-30,True
+380,Basketball,Sports,Basketball,Fusion,"Evans, Robertson and Dawson",261.29,486.62,401,47,2025-08-04,True
+381,Coffee Mug,Home,Coffee Mug,Fusion,"Hays, Roberts and Diaz",196.01,296.64,608,19,2025-06-16,True
+382,Yoga Mat,Sports,Yoga Mat,Vertex,Diaz-Williams,70.33,163.1,430,56,2023-01-06,True
+383,T-Shirt,Clothing,T-Shirt,Prime,Acosta Group,13.26,17.08,220,15,2022-08-21,True
+384,Jacket,Clothing,Jacket,Apex,Thomas PLC,316.14,585.29,433,99,2025-11-23,False
+385,Headphones,Electronics,Headphones,TechPro,Mendoza-Moreno,271.14,379.19,317,20,2023-12-21,True
+386,Lamp,Home,Lamp,Fusion,"Smith, Strong and Sanders",198.41,401.7,697,92,2024-01-21,True
+387,Dumbbell,Sports,Dumbbell,TechPro,"Mosley, Pierce and Guzman",366.33,842.71,250,21,2025-07-20,False
+388,Monitor,Electronics,Monitor,Fusion,Boone-Gates,308.09,391.75,759,94,2022-11-25,True
+389,Laptop,Electronics,Laptop,Nova,Chapman Inc,355.41,750.61,508,54,2026-01-19,False
+390,Lamp,Home,Lamp,Prime,Davis Ltd,67.83,150.27,750,25,2025-10-03,True
+391,Dumbbell,Sports,Dumbbell,Fusion,Ross-Johnson,139.63,179.15,998,83,2024-10-12,True
+392,Sneakers,Clothing,Sneakers,Vertex,Bell and Sons,257.84,327.99,170,57,2024-05-14,True
+393,Football,Sports,Football,TechPro,"Obrien, Jones and Rodriguez",447.66,929.5,233,75,2022-09-11,True
+394,Laptop,Electronics,Laptop,Apex,Schroeder and Sons,126.05,228.57,942,29,2024-09-23,True
+395,Headphones,Electronics,Headphones,Fusion,"Brown, Richard and Perkins",402.54,856.7,429,38,2026-06-10,False
+396,Coffee Mug,Home,Coffee Mug,TechPro,"Gilmore, Lewis and Anderson",458.35,740.65,585,57,2024-02-15,True
+397,Keyboard,Electronics,Keyboard,TechPro,Green-Navarro,115.48,216.01,976,61,2025-05-17,True
+398,Jacket,Clothing,Jacket,TechPro,Savage Inc,387.9,622.16,566,68,2023-02-24,True
+399,Basketball,Sports,Basketball,Fusion,"Taylor, Dalton and Hooper",149.34,331.51,637,41,2024-01-11,False
+400,Dumbbell,Sports,Dumbbell,Fusion,"Hughes, Vargas and Johnson",498.9,1101.9,922,79,2022-11-28,True
+401,Chair,Home,Chair,Vertex,"Moore, Oneill and Molina",466.54,574.35,354,91,2023-02-05,True
+402,Football,Sports,Football,Fusion,"Myers, Howard and Woodward",380.67,643.01,744,49,2024-11-06,True
+403,Desk,Home,Desk,Nova,Oconnor-Mendez,212.81,521.29,728,45,2025-04-20,True
+404,Keyboard,Electronics,Keyboard,Fusion,Stewart-Jensen,449.16,842.48,917,57,2023-01-09,False
+405,Headphones,Electronics,Headphones,Apex,Christian-Phillips,52.31,71.85,76,85,2023-11-22,True
+406,Jeans,Clothing,Jeans,Prime,Solis Inc,122.2,188.1,948,60,2026-03-31,False
+407,Dumbbell,Sports,Dumbbell,Nova,"Davis, Roberts and Bolton",139.62,181.1,139,84,2024-05-03,True
+408,Chair,Home,Chair,Apex,"Moore, Savage and Lee",86.37,155.97,123,78,2026-01-09,False
+409,Coffee Mug,Home,Coffee Mug,TechPro,"Sullivan, Best and Hart",157.61,243.43,92,30,2022-12-30,False
+410,Keyboard,Electronics,Keyboard,TechPro,Tran LLC,418.78,680.99,728,41,2023-11-05,False
+411,T-Shirt,Clothing,T-Shirt,Nova,Decker PLC,340.21,523.32,31,61,2024-04-21,False
+412,Chair,Home,Chair,Nova,Higgins PLC,233.71,524.69,124,11,2022-11-12,True
+413,Desk,Home,Desk,Fusion,Harris Group,103.08,177.38,645,92,2022-12-22,True
+414,Football,Sports,Football,Fusion,Parker-Miles,15.79,20.27,454,26,2024-11-17,True
+415,Football,Sports,Football,Nova,"Spencer, Faulkner and Ramos",26.13,47.02,946,83,2026-05-09,False
+416,Sneakers,Clothing,Sneakers,Nova,Horn and Sons,19.59,40.91,362,37,2025-09-27,True
+417,Yoga Mat,Sports,Yoga Mat,Vertex,Mathews Group,225.78,314.56,634,88,2022-10-09,True
+418,Dumbbell,Sports,Dumbbell,TechPro,"Smith, Romero and Ingram",208.94,400.31,89,45,2024-01-03,False
+419,Coffee Mug,Home,Coffee Mug,Vertex,Orr-Nunez,103.73,243.77,255,90,2024-01-26,True
+420,Jacket,Clothing,Jacket,Prime,Nelson PLC,242.44,537.21,934,82,2024-06-27,False
+421,Jacket,Clothing,Jacket,Nova,Sloan Group,94.01,151.78,30,45,2025-07-02,True
+422,Jacket,Clothing,Jacket,Nova,"Santiago, Ortiz and Brown",384.59,961.28,102,41,2024-11-15,True
+423,Football,Sports,Football,Vertex,"Mcfarland, Carroll and Smith",383.2,932.0,866,59,2026-03-09,False
+424,Desk,Home,Desk,Fusion,Harris-Johnson,122.09,196.98,714,55,2026-02-18,True
+425,Basketball,Sports,Basketball,Apex,Bridges-Graham,283.74,409.92,555,49,2025-01-15,True
+426,T-Shirt,Clothing,T-Shirt,Nova,Hudson-Riley,49.68,74.64,20,77,2022-09-28,False
+427,Mouse,Electronics,Mouse,Nova,Holloway-Moore,459.36,671.54,348,32,2025-02-19,False
+428,Laptop,Electronics,Laptop,Nova,"Griffin, Phillips and Castro",78.12,165.31,792,24,2024-12-28,False
+429,Mouse,Electronics,Mouse,Vertex,Bonilla PLC,353.75,729.0,103,53,2025-09-14,False
+430,Basketball,Sports,Basketball,Apex,"Savage, Howe and Cox",488.05,1050.31,810,91,2025-09-09,False
+431,Basketball,Sports,Basketball,Vertex,Rose Ltd,355.06,685.47,805,55,2025-06-19,True
+432,Coffee Mug,Home,Coffee Mug,Nova,White-Gardner,156.88,328.67,181,10,2023-10-08,False
+433,Keyboard,Electronics,Keyboard,Vertex,Robertson PLC,303.18,726.83,226,91,2023-10-03,True
+434,Jeans,Clothing,Jeans,Prime,Herman Inc,168.93,219.8,327,31,2024-10-05,True
+435,Dumbbell,Sports,Dumbbell,Fusion,Oliver-Moore,10.64,15.67,69,54,2026-03-18,False
+436,Laptop,Electronics,Laptop,Apex,Valentine Inc,28.83,51.02,992,31,2022-12-29,False
+437,Sneakers,Clothing,Sneakers,Apex,Nguyen Group,178.86,301.91,807,83,2024-08-16,True
+438,Coffee Mug,Home,Coffee Mug,Prime,"Boyle, Austin and Lowe",41.49,95.41,20,50,2026-04-19,False
+439,Laptop,Electronics,Laptop,Nova,Manning-Beck,174.2,410.12,749,19,2025-05-10,True
+440,Dumbbell,Sports,Dumbbell,Fusion,"Perez, Daniel and Smith",353.73,622.82,168,87,2023-11-24,False
+441,Chair,Home,Chair,Nova,"Vega, Davis and Peterson",55.12,80.87,419,99,2024-09-25,False
+442,Yoga Mat,Sports,Yoga Mat,Vertex,"Bailey, Mckenzie and Rivera",122.59,155.02,562,72,2022-09-27,True
+443,Mouse,Electronics,Mouse,Fusion,Gomez Group,6.89,9.05,640,86,2022-07-21,False
+444,Chair,Home,Chair,Prime,Gentry-Richardson,17.74,25.23,1000,20,2023-01-22,False
+445,Mouse,Electronics,Mouse,Fusion,Vazquez-Wilson,393.51,713.13,271,21,2023-08-02,False
+446,Lamp,Home,Lamp,Apex,Palmer-Johns,443.32,744.88,45,43,2023-12-31,False
+447,Jacket,Clothing,Jacket,TechPro,Fowler LLC,116.99,181.23,154,99,2025-09-23,True
+448,Mouse,Electronics,Mouse,Vertex,Wong LLC,405.05,704.05,232,80,2025-09-20,True
+449,Sneakers,Clothing,Sneakers,Apex,"Martin, Spencer and Cherry",482.99,1010.99,586,40,2026-07-12,False
+450,Football,Sports,Football,TechPro,May LLC,200.43,463.02,514,83,2024-12-31,True
+451,Monitor,Electronics,Monitor,Nova,Hart-Stone,90.58,224.61,827,34,2023-01-09,True
+452,Monitor,Electronics,Monitor,Nova,Nicholson-Steele,43.79,91.44,842,90,2023-12-01,True
+453,Yoga Mat,Sports,Yoga Mat,TechPro,Gonzalez and Sons,455.85,1088.76,89,59,2023-07-23,False
+454,Yoga Mat,Sports,Yoga Mat,TechPro,Martin Group,262.25,627.38,805,99,2023-08-27,False
+455,Monitor,Electronics,Monitor,Vertex,"Daniels, Nelson and Stokes",79.07,153.12,776,22,2025-11-22,True
+456,Mouse,Electronics,Mouse,Apex,"Lawrence, Gonzales and Jordan",434.4,1018.31,270,59,2024-07-21,False
+457,T-Shirt,Clothing,T-Shirt,Vertex,Mcconnell LLC,90.24,155.56,623,97,2023-09-10,False
+458,Monitor,Electronics,Monitor,Nova,Campbell-Taylor,445.34,726.32,50,70,2024-01-14,False
+459,Football,Sports,Football,Prime,"Robles, Rose and Rogers",172.24,384.4,287,72,2024-04-13,True
+460,Desk,Home,Desk,Prime,Brown Ltd,153.74,333.13,275,63,2023-02-10,True
+461,Coffee Mug,Home,Coffee Mug,Fusion,Lopez Group,109.64,249.01,496,76,2025-06-05,False
+462,Headphones,Electronics,Headphones,Fusion,Walker-Hanson,396.79,510.0,518,61,2023-01-31,True
+463,Keyboard,Electronics,Keyboard,TechPro,Novak LLC,100.42,229.24,255,14,2025-08-14,False
+464,Mouse,Electronics,Mouse,Apex,Smith Inc,353.79,550.56,517,60,2025-09-12,True
+465,Keyboard,Electronics,Keyboard,Nova,Richardson-Jackson,189.37,373.49,983,70,2024-11-27,False
+466,Basketball,Sports,Basketball,Fusion,"Hamilton, Banks and Mitchell",419.64,644.68,92,46,2023-01-21,True
+467,T-Shirt,Clothing,T-Shirt,Nova,"Lopez, Green and Johnson",85.64,166.48,877,38,2025-09-14,True
+468,Lamp,Home,Lamp,Fusion,Rodriguez Group,327.54,611.6,9,70,2026-01-11,True
+469,Chair,Home,Chair,Prime,Cohen-Griffin,115.77,230.48,729,100,2024-03-08,False
+470,Sneakers,Clothing,Sneakers,Nova,"Clay, Bishop and Mendez",426.54,766.36,477,48,2025-10-27,False
+471,Laptop,Electronics,Laptop,Prime,Peters-Pope,258.2,532.17,574,92,2023-03-28,False
+472,Football,Sports,Football,Prime,Sanchez LLC,243.46,398.59,655,51,2023-03-20,False
+473,Yoga Mat,Sports,Yoga Mat,Nova,Wang-Garcia,98.24,183.95,921,17,2024-06-24,False
+474,Basketball,Sports,Basketball,Prime,Cantu-Patrick,362.04,742.91,265,63,2024-11-03,False
+475,T-Shirt,Clothing,T-Shirt,Nova,Ramirez-Glenn,293.6,732.0,351,38,2024-01-30,False
+476,Yoga Mat,Sports,Yoga Mat,Vertex,Kirk and Sons,423.48,970.97,185,47,2024-01-19,True
+477,Jeans,Clothing,Jeans,Vertex,"Russell, Macias and Berry",371.75,796.56,781,33,2025-06-19,False
+478,Keyboard,Electronics,Keyboard,Prime,Robinson and Sons,180.87,392.03,430,52,2023-03-18,False
+479,Yoga Mat,Sports,Yoga Mat,TechPro,Oconnor-Terry,234.56,317.39,887,91,2025-12-08,True
+480,Jeans,Clothing,Jeans,Apex,Hall PLC,252.74,588.31,542,48,2024-08-18,False
+481,Keyboard,Electronics,Keyboard,Apex,Davis LLC,73.0,106.61,583,68,2025-06-08,True
+482,Basketball,Sports,Basketball,Fusion,Davis-Dunn,390.58,716.27,181,50,2024-06-04,True
+483,Monitor,Electronics,Monitor,Nova,"Torres, Miller and Chase",140.4,307.41,590,30,2023-04-09,False
+484,Keyboard,Electronics,Keyboard,Apex,"Shaffer, Galloway and Armstrong",309.17,625.62,439,71,2022-10-17,False
+485,Laptop,Electronics,Laptop,TechPro,Humphrey Group,269.22,578.78,913,51,2025-03-13,True
+486,Laptop,Electronics,Laptop,Fusion,"Mckenzie, Sharp and Gallagher",315.21,480.21,898,54,2023-03-24,False
+487,Chair,Home,Chair,Nova,Zamora-Garrison,194.86,382.95,66,15,2022-10-22,False
+488,Dumbbell,Sports,Dumbbell,Prime,Hopkins-Morrison,365.28,721.53,444,97,2023-03-26,True
+489,Dumbbell,Sports,Dumbbell,Apex,Richardson and Sons,182.83,264.18,19,39,2024-06-15,True
+490,Desk,Home,Desk,Nova,Lara-Barnes,368.37,724.44,126,56,2023-07-02,True
+491,Jacket,Clothing,Jacket,Vertex,Zimmerman and Sons,386.77,777.44,49,94,2024-12-15,True
+492,Laptop,Electronics,Laptop,Apex,Ramirez-Guerra,346.43,603.41,126,80,2023-11-13,False
+493,Jeans,Clothing,Jeans,TechPro,"Salazar, Jones and Howard",106.72,223.2,308,63,2023-12-12,True
+494,Basketball,Sports,Basketball,Vertex,Evans Inc,212.32,502.82,736,89,2026-07-13,True
+495,Football,Sports,Football,Vertex,Hendricks-Maldonado,393.46,726.74,204,43,2022-10-14,True
+496,Dumbbell,Sports,Dumbbell,Apex,"Stevens, Beasley and Davis",151.2,189.19,932,36,2024-08-06,False
+497,Basketball,Sports,Basketball,TechPro,Smith-Baird,6.36,13.19,855,83,2023-09-13,False
+498,Chair,Home,Chair,Fusion,"Bishop, Martinez and Anderson",390.87,507.18,103,42,2025-08-11,True
+499,Jacket,Clothing,Jacket,Nova,"Aguilar, Gutierrez and Smith",135.74,171.73,895,15,2023-11-15,False
+500,Yoga Mat,Sports,Yoga Mat,TechPro,Ruiz Ltd,215.87,291.57,9,27,2023-02-18,True
