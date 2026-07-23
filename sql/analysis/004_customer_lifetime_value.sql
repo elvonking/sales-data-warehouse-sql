@@ -1,6 +1,6 @@
 -- a view of customer lifetime value (CLV) and related metrics
 
-DROP VIEW IF EXISTS analytics.customer_lifetime_value;
+DROP VIEW IF EXISTS analytics.customer_lifetime_value CASCADE;
 
 CREATE VIEW analytics.customer_lifetime_value AS
 SELECT
